@@ -326,5 +326,5 @@ Take a screenshot of the output showing the running service.
 
 
 
-![Screenshot (38)](https://github.com/user-attachments/assets/8892c83c-a16e-40d1-a073-979704253e4b)
+
 
